@@ -3,3 +3,4 @@ def print_list_integer(my_list=[]):
 		def replace_in_list(my_list, idx, element):
 			def print_reversed_list_integer(my_list=[]):
 				def no_c(my_string):
+					def print_matrix_integer(matrix=[[]]):

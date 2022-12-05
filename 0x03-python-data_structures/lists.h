@@ -7,3 +7,4 @@ def print_list_integer(my_list=[]):
 						def add_tuple(tuple_a=(), tuple_b=()):
 							def multiple_returns(sentence):
 								def max_integer(my_list=[]):
+									def divisible_by_2(my_list=[]):

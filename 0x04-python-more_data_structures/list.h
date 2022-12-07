@@ -7,3 +7,4 @@ def square_matrix_simple(matrix=[]):
 						def print_sorted_dictionary(a_dictionary):
 							def update_dictionary(a_dictionary, key, value):
 								def simple_delete(a_dictionary, key=""):
+								def multiply_by_2(a_dictionary):

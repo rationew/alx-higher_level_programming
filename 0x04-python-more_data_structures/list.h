@@ -9,3 +9,5 @@ def square_matrix_simple(matrix=[]):
 								def simple_delete(a_dictionary, key=""):
 								def multiply_by_2(a_dictionary):
 									def best_score(a_dictionary):
+										def multiply_list_map(my_list=[], number=0):
+
